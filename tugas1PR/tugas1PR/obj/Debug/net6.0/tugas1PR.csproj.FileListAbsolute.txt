@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\tugas1PR.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\tugas1PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\tugas1PR.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\tugas1PR.AssemblyInfo.cs
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\tugas1PR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\bin\Debug\net6.0\tugas1PR.exe
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\bin\Debug\net6.0\tugas1PR.deps.json
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\bin\Debug\net6.0\tugas1PR.runtimeconfig.json
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\bin\Debug\net6.0\tugas1PR.dll
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\bin\Debug\net6.0\tugas1PR.pdb
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\tugas1PR.dll
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\refint\tugas1PR.dll
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\tugas1PR.pdb
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\tugas1PR.genruntimeconfig.cache
+C:\Users\user\Desktop\Kuliah Ivan\PBO\tugas1PR\tugas1PR\obj\Debug\net6.0\ref\tugas1PR.dll
